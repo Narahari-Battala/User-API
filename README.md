@@ -1,6 +1,6 @@
 # User-API
 
-Our API is used for sign up , login and data retrieval.It is intended primarily to assist application developers wishing to use an api for sign up , login and data retrieval operations in their applications or websites.
+USER API is used for sign up , login and data retrieval.It is intended primarily to assist application developers wishing to use an api for sign up , login and data retrieval operations in their applications or websites. JWT (JSON Web Tokens) are used for Authentication and AUthorization.
 
 What's available:
 
